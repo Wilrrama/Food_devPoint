@@ -1,0 +1,20 @@
+.produto-box {
+  border: 3px solid rgb(59, 46, 46);
+  border-radius: 18px;
+  max-width: 230px;
+  padding: 10px 10px 20px 10px;
+  display: inline-block;
+  margin: 30px;
+}
+
+.prod_vitrine_descricao {
+  color: #acacac;
+  font-size: 1rem;
+}
+
+.prod_vitrine_preco {
+  color: chocolate;
+  font-size: 1.4 rem;
+  font-weight: bold;
+  line-height: 1rem;
+}
